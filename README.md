@@ -1,36 +1,23 @@
-# 🌟 ¡Bienvenido a _Mi Proyecto_! 🌟
+# 🌟 ¡Lectura y escritura dinamicas de CSV en C! 🌟
 
-Un proyecto increíble que hace magia con código ✨
+Proyecto de ejemplo para utilizar la libreria CSVParser incluída en el codigo
 
 ---
 
-## 🔥 **Títulos Creativos** (Ejemplos)
+## 🔥 **Detalles del proyecto**
 
-### 1. Título con subrayado alternativo
-≫≫≫ *Alternate Style* ≪≪≪
+### 1. Base teorica del proyecto
+Este proyecto sirve para todo aquel que quiera ejemplos claros de como utilizar las diferentes herramientas que la herramienta de C proporciona. Se trabajan ficheros, punteros, listas enlazadas... Todo lo basico que puede ser reutilizado para otros proyectos. 
 
-### 2. Título en bloque ASCII
-╔══════════════════════╗
-║   TÍTULO ÉPICO       ║
-╚══════════════════════╝
-
-### 3. Título con emojis centrado
-<p align="center">
-  🚀 <strong>DESPLIEGUE ESPACIAL</strong> 🪐
-</p>
-
-### 4. Título con fondo "falso"
-<table>
-  <tr>
-    <td bgcolor="#FFD700"><strong>📌 Título destacado en amarillo</strong></td>
-  </tr>
-</table>
+### 2. Lineas futuras
+Me gustaría añadir algo de logica de redes en un futuro en el que el DataManager fuera el servidor de la base de datos y desde otro cliente se pudiera hacer la "request" a nuestra base de datos. por otra parte, se podria integrar alguna tecnologia mas que nos permitiera tambien tener alguna especie de interfaz para los usuarios. 
 
 ---
 
 ## 🛠 **Tecnologías Usadas**
 ```diff
-+ JavaScript ES6
-+ Python 3.9
-# React 18 (Frontend)
-! Node.js (Backend)
++ C
++ CSV
++ MakeFile
+# Comunicaciones
+! C++
